@@ -1,4 +1,8 @@
-### Hi there 👋
+### Jayli is Here 👋
+
+![](https://github-readme-stats.vercel.app/api?username=jayli&count_private=true&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayli&layout=compact&theme=tokyonight)
 
 <!--
 **jayli/jayli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
